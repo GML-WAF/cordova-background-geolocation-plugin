@@ -9,6 +9,7 @@
 !/www
 !/android
 /android/*
+!/android/res
 !/android/dependencies.gradle
 !/android/common
 /android/common/*
